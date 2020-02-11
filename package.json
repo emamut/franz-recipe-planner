@@ -1,0 +1,13 @@
+{
+  "id": "ms-planner",
+  "name": "MS planner",
+  "version": "1.0.17",
+  "description": "MS Planner",
+  "main": "index.js",
+  "author": "Faber Vergara <fabervergara@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://tasks.office.com/",
+    "hasNotificationSound": true
+  }
+}
